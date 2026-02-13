@@ -41,3 +41,10 @@ google-auth~=2.25
 
 # Optional Fields
 # django-multiselectfield~=0.1
+
+# Testing
+pytest~=8.3
+pytest-django~=4.6
+
+# Payments
+stripe~=12.2

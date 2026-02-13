@@ -1,5 +1,10 @@
 {
     "editor.formatOnSave": true,
+    "cSpell.words": [
+        "corsheaders",
+        "parler",
+        "yasg"
+    ],
     // "[python]": {
     //     "editor.defaultFormatter": "mikoz.black-py"
     // },
